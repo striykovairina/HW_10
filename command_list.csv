@@ -1,0 +1,82 @@
+    1  ls
+    2  git config --global user.name "Irina Dtriukova"
+    3  git config --global user.email Striykovairina@gmail.com
+    4  cd
+    5  git -help
+    6  git help
+    7  ls
+    8  cd IStr/
+    9  it clone https://github.com/striykovairina/HW_10.-README.git
+   10  clear
+   11  clone bash: it: command not found
+   12  cd IStr %
+   13  cd IStr 
+   14  cd
+   15   git clon ehttps://github.com/striykovairina/HW_10.-README.git  
+   16  clone https://github.com/striykovairina/HW_10.-README.git
+   17  column https://github.com/striykovairina/HW_10.-README.git
+   18  clone https://github.com/striykovairina/HW_10.-README.git
+   19  clear
+   20  git clone https://github.com/striykovairina/HW_10.-README.git
+   21  cd
+   22  cd 
+   23  “text_ignore.txt” 
+   24  git help
+   25  git config
+   26  Git config –list –show-origin
+   27  cd IStr/
+   28  Git config –list –show-origin
+   29  ls
+   30  git config --global user.name "Striukova Ipina"
+   31  git config --global user.email striykovairina@gmail.com
+   32  git config --list
+   33  $ git clon
+   34  git clone https://github.com/striykovairina/HW_10.git
+   35  ls
+   36  cd
+   37  cd HW_10
+   38  cd HW_10
+   39  ls -l
+   40  cd IStr/
+   41  ls
+   42  cd HW_10
+   43  touch text_ignore.txt 
+   44  ls
+   45  nano.gitignore
+   46  nano .gitignore
+   47  git status
+   48  git add
+   49  git commit
+   50  cat .gitignore 
+   51  ls
+   52  ls -s
+   53  ls -l
+   54  ls --help
+   55  ls -a
+   56  git status
+   57  touch main_test.txt
+   58  git status
+   59  git add
+   60  git add .
+   61  git status
+   62  git commit
+   63  git commit
+   64  git status
+   65  git branch develop 
+   66  git checkout develop
+   67  touch develop_test.txt
+   68  git add .
+   69  git commit
+   70  nano develop_test.txt
+   71  git status
+   72  git add
+   73  git add .
+   74  git commit
+   75  git commit
+   76  git checkout main
+   77  git commit
+   78  git checkout main
+   79  git merge develop
+   80  git log
+   81  history
+   82  history >command_list.csv
